@@ -1,7 +1,7 @@
 # Binary Search
 
 
-Binary Search is an efficient searching algorithm that works on **sorted** arrays or lists. It repeatedly divides the search space in half until the target element is found or determined to be absent. This algorithm has a time complexity of **O(log n)**, making it significantly faster than linear search for large datasets.
+binary Search is an efficient searching algorithm that works on **sorted** arrays or lists. It repeatedly divides the search space in half until the target element is found or determined to be absent. This algorithm has a time complexity of **O(log n)**, making it significantly faster than linear search for large datasets.
 
 This repository provides an implementation of the Binary Search algorithm in C++. It includes both iterative and recursive versions of the search.
 
