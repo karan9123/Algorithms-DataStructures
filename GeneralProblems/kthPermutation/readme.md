@@ -1,0 +1,1 @@
+This is the kth Permutation problem. Where we find the kth permutation of the n! numbers
